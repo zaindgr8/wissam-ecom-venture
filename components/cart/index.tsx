@@ -1,3 +1,5 @@
+// @ts-ignore
+
 import { getCart } from 'lib/shopify';
 import { cookies } from 'next/headers';
 import CartModal from './modal';
